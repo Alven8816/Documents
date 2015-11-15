@@ -1,0 +1,19 @@
+===============================================================
+File 'Age3Log.txt' opened at Sun Sep 20 19:59:10 2015
+
+===============================================================
+
+PreGame  17717:  Game locale: English
+PreGame  18475:  nvCPL is unavailable.
+PreGame  21603:  ------------------------------------------------------------------------
+PreGame  21603:  Render using: Intel(R) HD Graphics 5500
+PreGame  21603:     Driver: igdumdim32.dll -- version 10.18.15.4256
+PreGame  21603:     VendorID = 0x8086
+PreGame  21603:     DeviceID = 0x1616
+PreGame  21603:     SubSysID = 0x80c2103c
+PreGame  21603:     Revision = 0x9
+PreGame  21603:     DeviceIdentifier: {D7B78E66-5556-11CF-2C63-CDA0B4C2C735}
+PreGame  21610:     XML render config -- found vendor 0x8086 as 'Intel'
+PreGame  21610:     XML render config -- choosing generic device configuration file 'geforce fx 6800'
+PreGame  28027:  Game startup complete (28.02 sec)!
+PreGame  28027:  ------------------------------------------------------------

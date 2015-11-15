@@ -1,0 +1,36 @@
+[2015-11-11 20:16:36.534] [000023] [localhost_3306] [MYSQL]
+SHOW VARIABLES LIKE 'lower_case_%'
+
+[2015-11-11 20:16:36.602] [000023] [localhost_3306] [MYSQL]
+SHOW VARIABLES LIKE 'profiling'
+
+[2015-11-11 20:16:36.603] [000023] [localhost_3306] [MYSQL]
+SHOW DATABASES
+
+[2015-11-11 20:16:38.143] [000024] [localhost_3306] [MYSQL]
+SELECT @@character_set_database, @@collation_database
+
+[2015-11-11 20:16:38.185] [000024] [localhost_3306] [MYSQL]
+SHOW FULL TABLES WHERE Table_type != 'VIEW'
+
+[2015-11-11 20:16:42.587] [000025] [localhost_3306] [MYSQL]
+SELECT @@character_set_database, @@collation_database
+
+[2015-11-11 20:16:42.612] [000025] [localhost_3306] [MYSQL]
+SHOW FULL TABLES WHERE Table_type != 'VIEW'
+
+[2015-11-11 20:16:44.997] [000026] [localhost_3306] [MYSQL]
+SELECT @@character_set_database, @@collation_database
+
+[2015-11-11 20:16:45.044] [000026] [localhost_3306] [MYSQL]
+SHOW FULL TABLES WHERE Table_type != 'VIEW'
+
+[2015-11-11 20:16:48.206] [000026] [localhost_3306] [MYSQL]
+SHOW CREATE TABLE `time_zone`
+
+[2015-11-11 20:16:48.379] [000027] [localhost_3306] [MYSQL]
+SELECT * FROM `time_zone` LIMIT 0, 1000
+
+[2015-11-11 20:16:48.380] [000027] [localhost_3306] [MYSQL]
+SHOW COLUMNS FROM `mysql`.`time_zone`
+
